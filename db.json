@@ -1,0 +1,23 @@
+[
+  {
+    "match_id": 1,
+    "team_1": "Team A",
+    "team_2": "Team B",
+    "score_team_1": 2,
+    "score_team_2": 1
+  },
+  {
+    "match_id": 2,
+    "team_1": "Team C",
+    "team_2": "Team D",
+    "score_team_1": 0,
+    "score_team_2": 3
+  },
+  {
+    "match_id": 3,
+    "team_1": "Team E",
+    "team_2": "Team F",
+    "score_team_1": 1,
+    "score_team_2": 1
+  }
+]
